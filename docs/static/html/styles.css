@@ -1,0 +1,23 @@
+/*
+ * I add this to html files generated with pandoc.
+ */
+@import './common-styles.css';
+
+
+header {
+  display: none;
+}
+
+body {
+  color: #444;
+  font-family: Georgia, Palatino, 'Palatino Linotype', Times, 'Times New Roman', serif;
+  font-size: 14px;
+  line-height: 1.7;
+  margin: 0;
+}
+
+body {
+  padding: 1rem 0;
+  margin-left: 5%;
+  overflow-y: auto;
+}
