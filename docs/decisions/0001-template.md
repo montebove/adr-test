@@ -1,5 +1,15 @@
 # {short title of solved problem and solution}
 
+Date: 2022-01-10
+
+## Status
+
+Accepted
+
+## Tags
+
+Template
+
 ## Context and Problem Statement
 
 {Describe the context and problem statement, e.g., in free form using two to three sentences or in the form of an illustrative story.

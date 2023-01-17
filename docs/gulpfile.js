@@ -10,7 +10,6 @@ gulp.task('clean', clean(bin));
 
 gulp.task('prepare', prepare(bin));
 
-
 gulp.task('html', gulp.series('prepare', html(bin)));
   
 gulp.task('word', gulp.series('prepare', word(bin)));
